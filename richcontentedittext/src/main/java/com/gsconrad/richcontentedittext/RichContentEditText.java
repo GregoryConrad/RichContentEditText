@@ -18,7 +18,7 @@ import static android.os.Build.VERSION.SDK_INT;
 import static android.os.Build.VERSION_CODES.N_MR1;
 
 /**
- * A simple wrapper around an AppCompatEditText that makes it easier to handle rich content
+ * A simple wrapper around AppCompatEditText that makes it easier to handle rich content
  */
 public class RichContentEditText extends AppCompatEditText {
     public RichContentEditText(Context context) {
