@@ -11,6 +11,8 @@ Add this to your `Module: app`'s build.gradle file under `dependencies`:
 
 If that does not work, ensure `jcenter()` is in your project build.gradle's `repositories` section—it should be by default.
 
+And if for some reason, you still can't get it to work, try using [Jitpack](https://jitpack.io/#gregoryconrad/richcontentedittext/v1.0.0).
+
 # Usage
 For a full working example (where the screenshots came from), see the example app. You can clone this repository and open it in Android Studio to see the example app. But, here are some easy code snippets:
 
